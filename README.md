@@ -1,6 +1,6 @@
 # three-fund-portfolio-tool
 ## Description
-This Python program is designed to help 3-fund-portfolio investors determine how much money they need to invest in each fund, given a certain amount that they want to add to their total investment.
+This Python script is designed to help 3-fund-portfolio investors determine how much money they need to invest in each fund, given a certain amount that they want to add to their total investment.
 
 Here's what the program does:
 1. The user is asked to input the percentage of each fund that they want in their portfolio (% of US stocks, % of international stocks, and % of bonds).
