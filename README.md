@@ -9,7 +9,7 @@ Here's what the program does:
 4. The program calculates and outputs how much the user needs to buy (or sell) for each fund to achieve the percentages determined in step 1.
 
 ## Other Info
-- No modules needed, just run the main program!
+- No modules needed, just run the main program:
 ```
-3_fund_portfolio.py
+python 3_fund_portfolio.py
 ```
