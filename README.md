@@ -10,3 +10,6 @@ Here's what the program does:
 
 ## Other Info
 - No modules needed, just run the main program!
+```
+3_fund_portfolio.py
+```
